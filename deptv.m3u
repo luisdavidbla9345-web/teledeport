@@ -1,110 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Televisi%C3%B3n_P%C3%BAblica_Pampeana_%28Logo_2022%29.png",ARG:  Canal 2 TVP Pampeana ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/7402.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://canalcuatroposadas.com.ar/wp-content/uploads/2024/02/logo-web.png",ARG:  Canal 4 Posadas ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/131725.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/shows_logos/81/ec/81ec6490-abbe-4675-bda3-25cb661b55b5.png",ARG: 10 TV Neuquén ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/7431.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://t5satelital.com/theme/img/T5logo.png",ARG: 24A ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/7400.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/1280px-A%26E_Network_logo.svg.png",ARG: A&E Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/135653.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/A24_%282019-1%29.png",ARG: A24 ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/237420.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png",ARG: AMC Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/135656.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://img2.freepng.es/20180617/wx/kisspng-amrica-24-argentina-television-channel-5b2726e477db86.792259961529292516491.jpg",ARG: AMERICA 24 ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/146369.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",ARG: AMERICA TV ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/137746.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png",ARG: AMERICA TV ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3567.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Animal_Planet.png",ARG: ANIMAL PLANET Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4910.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://1.bp.blogspot.com/_UM56cm9HfJE/TFMi2rGtLMI/AAAAAAAAAhM/u4GdJOPmo9s/s1600/argentinisima.png",ARG: ARGENTINISIMA ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3566.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://cdn.mitvstatic.com/channels/ar_argentinisima-satelital_m.png",ARG: Argentinísima Satelital ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/7404.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/AXN_Logo_2015.png/800px-AXN_Logo_2015.png",ARG: AXN Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4912.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://i.pinimg.com/originals/1e/54/75/1e5475e63e7183eb7391444402afd010.png",ARG: BABY FIRST Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4914.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://bayrestv.com.ar/assets/logo-bayres-tv.png",ARG: BAYRES PLAY TV ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3564.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://beatsradio.com.ar/imagenes/fb.png",ARG: Beats Music Dance ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/237421.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/C5N.svg/1280px-C5N.svg.png",ARG: C5N ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3565.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://ia600408.us.archive.org/1/items/logos_20160512/C5N.png",ARG: C5N Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/161874.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://www.cadena103.com.ar/wp-content/uploads/2017/07/Logo02.png",ARG: CADENA 103 TV ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/237425.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://i.ytimg.com/vi/pdZwGB4NkE4/hqdefault.jpg",ARG: Canal  11 Mar De Ajo ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/159974.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3cio_Qgzd_qujR2hFRp7kyIfdcB2XmU9w9Fs_mtVCPXffgMNrTdciv0OPXKnJJ42wS60&usqp=CAU",ARG: CANAL 10 SENILLOSA Neuquén
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/7432.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png",ARG: Canal 10 TV Cordoba ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/7418.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Canal_13_%28Chile%29_logo.svg/1005px-Canal_13_%28Chile%29_logo.svg.png",ARG: CANAL 13 ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3553.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://www.canal2.com.ar/canal2-poster.jpg",ARG: CANAL 2 Misiones ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/237422.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/800px-Canal_3_Santa_Rosa_%28Logo_2016%29.png",ARG: CANAL 3 del la PAMPA ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/212041.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telpin-Canal-2-en-vivo-Online.png",ARG: Canal 34 ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/7436.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://canal4esquel.com.ar/wp-content/uploads/2025/05/logo-canal-2.png",ARG: Canal 4 Ezquel ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/7437.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Canal_Siete_Jujuy.png/800px-Canal_Siete_Jujuy.png",ARG: CANAL 7 JUJUY ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/217842.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png",ARG: CANAL 9 ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3539.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Canal_9_ba_logo.png",ARG: CANAL 9 ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3542.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Misionescuatro_logo.png",ARG: Canal Cuatro Misiones Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/162380.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://fotos.subefotos.com/182edeb2572e3eb12a6ba60b7ebcd924o.png",ARG: CANAL DE LA CIUDAD ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3562.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://chabdigital.com.ar/wp-content/uploads/2019/05/654.png",ARG: CANAL DE LA MUSICA ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3552.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/3821-800x450-FFFFFF.jpg",ARG: Canal La Descarga TV ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/198884.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://3.bp.blogspot.com/-k-69wRRLNGs/VXG2xu6KOTI/AAAAAAAADWs/bTWILrtJRfk/s280/fe97b954724155e66a07f3ab75bfd475.png",ARG: CANAL PROVINCIAL SAN MIGUEL ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/7405.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Televisi%C3%B3n_P%C3%BAblica_Pampeana_%28Logo_2022_-_2%29.png",ARG: Canal Publica Pampeana ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3558.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://pampacorporation.com/img/pampa-logo.png",ARG: CANAL SOMOS LA PAMPA ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/224965.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://ecom.com.ar/img/icons/somosuno.svg",ARG: Canal Somos Uno Chaco ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/146365.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://t5satelital.com/wp-content/uploads/2023/09/T5-Satelital-en-vivo-Online.png",ARG: CANAL T5 SATELITAL ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/224966.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://www.elnueve.com/images/brand-blue.png",ARG: CANAL TELEJUNÍN ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/146364.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://catamarcartv.com/wp-content/uploads/2023/01/logo-cuadrado.jpg",ARG: Catamarca TV ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/192383.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Cinelatino_logo.png",ARG: CINE LATINO Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4921.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://media.cine.com/canales/ar/294_hd.png",ARG: CIUDAD MAGAZINE ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3550.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://chaco.tv/assets/general/logo-chacotv.png",ARG: Ciudad TV Chaco ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/7419.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://i.imgur.com/75UgF.png",ARG: Ciudad TV Resistencia ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/7407.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://images.ctfassets.net/ugxciox4nyye/2SzoSJd5lT0ZmR0PxMxktc/cc2214cecf0cc9d307d6b7ef54a46b98/41_ClaroCinema.png",ARG: CLARO CINEMA Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/135782.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png",ARG: CNN ESPANOL Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4922.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://seeklogo.com/images/C/cnn_en_espa__ol-logo-C78CEA9319-seeklogo.com.png",ARG: CNN ESPAÑOL Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/135867.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/3543px-Comedy_Central_2018.svg.png",ARG: COMEDY CENTRAL Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4924.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png",ARG: CRONICA ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3541.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/shows_logos/81/ec/81ec6490-abbe-4675-bda3-25cb661b55b5.png",ARG: CUMBRE TV Neuquén ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/7430.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://mytuner.global.ssl.fastly.net/media/tvos_radios/m9hxqyywcvch.png",ARG: DANCE FM ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/7421.ts
 #EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Logo_DeporTV.png",ARG: DEPORTV ᴴᴰ
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3540.ts
 #EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://i.pinimg.com/originals/30/94/9f/30949f70bcca0fd475a8015001065755.png",ARG: DIRECTV SPORTS 2 Pʳᵉᵐⁱᵘᵐ ʜᴅ
@@ -113,28 +7,6 @@ http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/135643.ts
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/135642.ts
 #EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://i.pinimg.com/originals/30/94/9f/30949f70bcca0fd475a8015001065755.png",ARG: DIRECTV SPORTS+ Pʳᵉᵐⁱᵘᵐ ʜᴅ
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/135644.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png",ARG: Discovery Home & Health Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/135793.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Civilization_logo.svg/1280px-Discovery_Civilization_logo.svg.png",ARG: DISCOVERY Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/135821.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/1200px-Science_Channel_logo.svg.png",ARG: Discovery Science Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/135791.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/800px-2015_Discovery_theater_HD_logo.svg.png",ARG: DISCOVERY THEATER Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/135678.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png",ARG: Discovery World Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/135794.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Disney_Channel_2014_HD.png/800px-Disney_Channel_2014_HD.png",ARG: DISNEY CHANNEL Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4933.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Logo_Disney_XD.svg/1200px-Logo_Disney_XD.svg.png",ARG: DISNEY XD Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4935.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://i.pinimg.com/originals/4e/fd/fd/4efdfddc6dafa48064a41f9b6f1d6293.png",ARG: E! ENTERTAIMENTS Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4936.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://i.imgur.com/68ztlZE.png",ARG: EL GOURMET Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/135878.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png",ARG: EL TRECE ᴬᴿᴳᴱᴺᵀᴵᴺᴬ Fᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/150281.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://www.nicepng.com/png/full/828-8283014_eltrece-logo-eltrece-logo-el-trece.png",ARG: EL TRECE ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3568.ts
 #EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tbnenlace.png",ARG: ENLACE TV Pʳᵉᵐⁱᵘᵐ ʜᴅ
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4937.ts
 #EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png",ARG: ESPN 2 HD Pʳᵉᵐⁱᵘᵐ ʜᴅ
@@ -171,114 +43,12 @@ http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/135646.ts
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/135647.ts
 #EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1280px-FX_International_logo.svg.png",ARG: FX Pʳᵉᵐⁱᵘᵐ ʜᴅ
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4955.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELGARAGETV.png",ARG: GARAGE TV ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3549.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://claroperupoc.vtexassets.com/arquivos/golden-premier-2hd-v2.png",ARG: Golden Premier 2 Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4948.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Golden_logo.png",ARG: GOLDEN Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4957.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",ARG: H2 Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4960.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png",ARG: HBO 2 Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4962.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png",ARG: HBO FAMILY Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4963.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/HBO_Mundi.svg/1200px-HBO_Mundi.svg.png",ARG: HBO MUNDI Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/135674.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",ARG: HBO PLUS ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4964.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/HBO_Pop.svg/1200px-HBO_Pop.svg.png",ARG: HBO POP Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/5065.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/1200px-HBO_Signature.svg.png",ARG: HBO SIGNATURE Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4965.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1280px-HBO_Xtreme.svg.png",ARG: HBO XTREME Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/135677.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/History2Logo2019.png",ARG: History 2 Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/135792.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://assets.stickpng.com/thumbs/585ac9444f6ae202fedf2947.png",ARG: HISTORY Channel Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4966.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://lascronologias.wordpress.com/wp-content/uploads/2020/05/grupo-clarin-cadena-somos-canales-interior.png",ARG: INFO Noticias ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3535.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png",ARG: INVESTIGATION DISCOVERY Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/135790.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lifetime_tv_logo.svg/1200px-Lifetime_tv_logo.svg.png",ARG: LIFETIME Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4979.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Lifetime_tv_logo.svg/604px-Lifetime_tv_logo.svg.png",ARG: LIFETIME Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/154827.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png",ARG: LN+ ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3538.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://www.pngitem.com/pimgs/m/286-2868325_thumb-image-metro-tv-news-logo-hd-png.png",ARG: METRO ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3563.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/MTV_Hits_2017_logo.svg/1200px-MTV_Hits_2017_logo.svg.png",ARG: MTV HIT Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4982.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://e7.pngegg.com/pngimages/182/465/png-clipart-mtv-logo-tv-television-music-video-others-miscellaneous-television-thumbnail.png",ARG: MTV Live Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4981.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://assets.stickpng.com/thumbs/5a0c74bd9642de34b6b65cf5.png",ARG: NAT GEO Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4983.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png",ARG: NAT GEO Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4985.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://media.canalnet.tv/2018/08/N-600x720.png",ARG: Net TV ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/7403.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://w7.pngwing.com/pngs/688/57/png-transparent-tdc-hd-logo-thumbnail.png",ARG: NG TV Federal ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/146604.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo-1.png",ARG: NICK JR Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4986.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nickelodeon-logo.png",ARG: NICKELODEON Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4987.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://dplnews.com/wp-content/uploads/2025/09/dgyzwiv-fdf5cf34-6088-444e-b825-b8f0c5b16995.png",ARG: ON DIRECTV Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/149989.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1280px-Paramount_Network.svg.png",ARG: PARAMOUNT NETWORK Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/135670.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://mejoresradioytv.com/wp-content/uploads/2024/12/Quantica-TV.jpg",ARG: Quantica TV ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/7408.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://i.imgur.com/EpZgI8I.png",ARG: QUIERO MUSICA ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3548.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Rai_Italia_2013.svg/1200px-Rai_Italia_2013.svg.png",ARG: RAI ITALIA Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/135863.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Russia-Today-Logo.svg/1200px-Russia-Today-Logo.svg.png",ARG: RUSIA TODAY RT Pʳᵉᵐⁱᵘᵐ ʜᴅ®
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/150365.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/1200px-Star_Channel_2020.svg.png",ARG: STAR CHANNEL CINEMA Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4944.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png",ARG: STAR CHANNEL Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4949.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://assets.stickpng.com/images/5842f04ea6515b1e0ad75b14.png",ARG: STAR Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4942.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Logo_Studio_Universal.svg/1200px-Logo_Studio_Universal.svg.png",ARG: STUDIO UNIVERSAL Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/135659.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/SYFY_Logo_2020.png",ARG: SYFI Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4943.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Telefe.png",ARG: TELEFE ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3559.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Telefe_Noticias_2017.png/640px-Telefe_Noticias_2017.png",ARG: TELEFE NOTICIAS ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/237424.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/933px-TeleSUR-Logo.svg.png",ARG: TELESUR ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3545.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/TeleSUR-Logo.svg/1200px-TeleSUR-Logo.svg.png",ARG: TELESUR ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3557.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png",ARG: TN NOTICIAS ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/140376.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://p7.hiclipart.com/preview/507/75/689/tnt-series-turner-broadcasting-system-logo-tnt.jpg",ARG: TNT SERIES Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4950.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png",ARG: TNT SERIES Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/5024.ts
 #EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png",ARG: TNT SPORTS ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/131980.ts
 #EXTINF:-1 group-title="Argentina: Liga Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png",ARG: TNT SPORTS FHD
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/148458.ts
 #EXTINF:-1 group-title="Argentina: Liga Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png",ARG: TNT SPORTS ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/148459.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png",ARG: TODO NOTICIAS ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3556.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_TV_P%C3%BAblica_Argentina.svg/2087px-Logo_TV_P%C3%BAblica_Argentina.svg.png",ARG: TV PUBLICA ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3534.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Logo_TV_P%C3%BAblica_Argentina.svg/2087px-Logo_TV_P%C3%BAblica_Argentina.svg.png",ARG: TV PUBLICA ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/3555.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://consultoramyc.com.ar/wp-content/uploads/2025/03/sicardi-3.jpg",ARG: Tv Sicardi La Plata Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/157532.ts
-#EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://www.solidariatv.com/wp-content/uploads/2022/10/solidaria-tv-en-vivo-web-argentina.jpg",ARG: TV SOLIDARIA ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/7406.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV5Monde_Logo.svg/1280px-TV5Monde_Logo.svg.png",ARG: TV5 MONDE Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/135881.ts
 #EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/TYC94.png",ARG: TYC Pʳᵉᵐⁱᵘᵐ ʜᴅ
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4945.ts
 #EXTINF:-1 group-title="Argentina: TV Nacionales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png",ARG: TYC SPORTS ᴬᴿᴳᴱᴺᵀᴵᴺᴬ ᴴᴰ
@@ -289,12 +59,6 @@ http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/148457.ts
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/148455.ts
 #EXTINF:-1 group-title="Argentina: Liga Fútbol" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png",ARG: TyC SPORTS ᴾᴿᴵᴹᴱᴿᴬ ᴬᴿᴳᴱᴺᵀᴵᴺᴬ
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/148456.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Universal_Channel_Brasil.svg/1280px-Universal_Channel_Brasil.svg.png",ARG: Universal Channel Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4946.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1200px-Universal_Channel_Logo_2013.svg.png",ARG: UNIVERSAL CHANNEL Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/135663.ts
-#EXTINF:-1 group-title="Argentina: Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Fox_Premium_Family_%28Latin_America%29_-_2017_Logo.png",ARG: UNIVERSAL CRIME Pʳᵉᵐⁱᵘᵐ ʜᴅ
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4947.ts
 #EXTINF:-1 group-title="Colombia: Liga de Estrellas" tvg-logo="https://futbolete.com/wp-content/uploads/2021/07/Cuales-eventos-deportivos-ofrecera-Star-en-Colombia-scaled.jpg",COL:  ESPN STAR+ (SOLO EVENTOS) ᴾᴿᴵᴹᴱᴿᴬ Cᵒˡᵒᵐᵇⁱᵃ
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/160068.ts
 #EXTINF:-1 group-title="Colombia: Liga de Estrellas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png",COL: DIRECTV SPORTS ᴾᴿᴵᴹᴱᴿᴬ Cᵒˡᵒᵐᵇⁱᵃ ᴴᴰ
@@ -335,12 +99,6 @@ http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/214767.ts
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145490.ts
 #EXTINF:-1 group-title="Ecuador: Liga Pro Total" tvg-logo="https://www.ole.com.ar/images/2024/07/23/FTy1ceIVd_1200x630__1.jpg",ECU: Futbol Ecuador PPV (EVENTOS ᴸᶦᵍᵃ Eᶜᵘᵃᵈᵒʳ ᴴᴰ)
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/145492.ts
-#EXTINF:-1 group-title="Europe: Top Sports Leagues" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUpeASLUbXsngVJlsnRdNTIAgN1brdUw9JRyLZrnlO6xv0IxUctb-hUVFjbNvcEWJ0aQ&usqp=CAU",ELEVEN SPORT 1 FHD*
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/189974.ts
-#EXTINF:-1 group-title="Europe: Top Sports Leagues" tvg-logo="http://2.magmas5.com:8000/images/19e6c50faf8e7eac2d14f46a5f55706e.png",ELEVEN SPORT 2 FHD
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/189975.ts
-#EXTINF:-1 group-title="Europe: Top Sports Leagues" tvg-logo="http://2.magmas5.com:8000/images/19e6c50faf8e7eac2d14f46a5f55706e.png",ELEVEN SPORT 4 FHD
-http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/189976.ts
 #EXTINF:-1 group-title="España: Deportes HD & UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png",ESP-4:  ᴸᵃᴸᶦᵍᵃ TV BAR 4 (Solo Eventos)
 http://2.magmas5.com:80/channel/bBbd202512kkk/pp24bds0862vxqqh/4302.ts
 #EXTINF:-1 group-title="España: Deportes HD & UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/LaLiga_TV_Bar_HD.png",ESP-4:  ᴸᵃᴸᶦᵍᵃ TV BAR ᴴᴰ
